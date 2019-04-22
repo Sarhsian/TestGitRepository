@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\bin\Debug\TestGitRepository.exe.config
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\bin\Debug\TestGitRepository.exe
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\bin\Debug\TestGitRepository.pdb
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.Properties.Resources.resources
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.exe
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.pdb
+C:\Users\pc\source\repos\TestGitRepository\TestGitRepository\obj\Debug\TestGitRepository.Form1.resources
